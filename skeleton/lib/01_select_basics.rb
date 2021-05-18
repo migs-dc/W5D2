@@ -7,7 +7,7 @@
 #  area        :integer
 #  population  :integer
 #  gdp         :integer
-
+#test
 require_relative './sqlzoo.rb'
 
 def example_select
